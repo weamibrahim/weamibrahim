@@ -7,6 +7,9 @@
 ###
 
 <h2 align="left">connect with me</h2>
+###
+
+<img align="right" height="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 ###
 
