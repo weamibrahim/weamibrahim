@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">connect with me</h2>
-###
+
 
 <img align="right" height="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
@@ -50,9 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
 </div>
 
-###
 
-<img align="right" height="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 ###
 
